@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    color: rgb(60, 233, 17);
+}
+   
+
+.hero{
+    background-image:url(bg.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    overflow: hidden;
+}
+
+.project{
+   width: 100%;
+   margin-top: 10px;
+   overflow: hidden;
+
+}
+
+.meta{
+    float: left;
+    height: 200px;
+    width: 32%;
+    background-image: url(meta.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 3px;
+    margin-top: 5px;
+
+
+}
+
+.google{
+    float: left;
+    height: 200px;
+    width: 32%;
+    background-image: url(google.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 3px;
+    margin-top: 5px;
+}
+.shopify{
+    float: left;
+    height: 200px;
+    width: 32%;
+    background-image: url(shopify.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 3px;
+    margin-top: 5px;
+}
+.footer{
+    margin-top: 10px;
+}
